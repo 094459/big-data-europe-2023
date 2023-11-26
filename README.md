@@ -94,3 +94,6 @@ Stop the MySQL database using the following command
 ```
 docker kill {container image}
 ```
+
+Thank you for reading and trying this out.
+Made with <3
