@@ -1,4 +1,4 @@
-## Demo Setup
+# Demo Setup
 
 Run up a local MySQL database which has the following connection settings
 
